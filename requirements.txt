@@ -1,3 +1,2 @@
-tk==0.1.0
-tkcalendar==1.6.1
-GitPython==3.1.44
+tkcalendar
+GitPython
